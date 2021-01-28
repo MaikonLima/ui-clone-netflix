@@ -11,8 +11,3 @@
 </ul>
 ### Objetivo 
 <p>Técnicas de CSS3 com containers e variáveis, como posicionar elementos com Flexbox e estruturar Layout.</p>
-
-<p align="center">
-<h3>Visão do Game</h3>
-<img src="exemplo.PNG" >
-</p>
